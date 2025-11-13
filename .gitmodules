@@ -1,3 +1,6 @@
 [submodule "data-mining-labs"]
 	path = data-mining-labs
 	url = https://github.com/Hans-Kerman/data-mining-labs.git
+[submodule "DigiLab"]
+	path = DigiLab
+	url = https://github.com/ChengNanFlower/DigitalCircuitExperimentDesign.git
